@@ -1,0 +1,31 @@
+{
+    "ner": {
+        "B-CORP": 0,
+        "B-CW": 1,
+        "B-GRP": 2,
+        "B-LOC": 3,
+        "B-PER": 4,
+        "B-PROD": 5,
+        "I-CORP": 6,
+        "I-CW": 7,
+        "I-GRP": 8,
+        "I-LOC": 9,
+        "I-PER": 10,
+        "I-PROD": 11,
+        "O": 12
+    },
+    "span": {
+        "B": 0,
+        "I": 1,
+        "O": 2
+    },
+    "type": {
+        "CORP": 0,
+        "CW": 1,
+        "GRP": 2,
+        "LOC": 3,
+        "PER": 4,
+        "PROD": 5,
+        "O": 6
+    }
+}
