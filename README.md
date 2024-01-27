@@ -43,5 +43,5 @@ sh run_data_augmentation.sh <GPU ID> <DATASET> <SAMPLES>
 ```
 For example, English (En)
 ```console
-sh run_bash.sh 0 En 1000
+sh run_bash.sh 0 en 1000
 ```
