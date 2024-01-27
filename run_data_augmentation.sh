@@ -163,7 +163,7 @@ MODEL_NAME=xlm-roberta-large
 # params
 LR=1e-5
 WEIGHT_DECAY=0
-EPOCH=1000
+EPOCH=500
 SEED=0
 
 ADAM_EPS=1e-8
